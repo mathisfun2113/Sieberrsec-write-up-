@@ -1,0 +1,10 @@
+#src writeup
+
+By inspecting the vulnerable website,
+We see that 
+
+
+The comment specifies that we have to go to that link, so
+
+
+and hence the flag is founded.
